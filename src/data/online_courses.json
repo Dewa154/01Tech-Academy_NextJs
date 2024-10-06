@@ -1,0 +1,112 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Basic Programming",
+            "slug": "basic-programming",
+            "description": "Learn the basics of programming with Python. Ideal for beginners!",
+            "price": 49.99,
+            "instructor": "Jane Doe",
+            "isFeatured": true,
+            "image": "https://images.pexels.com/photos/1181263/pexels-photo-1181263.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "id": 2,
+            "title": "Web Development",
+            "slug": "web-development",
+            "description": "Become a full-stack web developer in just 12 weeks.",
+            "price": 299.99,
+            "instructor": "John Smith",
+            "isFeatured": true,
+            "image": "https://images.pexels.com/photos/7988079/pexels-photo-7988079.jpeg?auto=compress&cs=tinysrgb&w=600"
+
+        },
+        {
+            "id": 3,
+            "title": "Data Science",
+            "slug": "data-science",
+            "description": "Master data analysis and visualization using R programming.",
+            "price": 199.99,
+            "instructor": "Alice Johnson",
+            "isFeatured": false,
+            "image": "https://media.istockphoto.com/id/1674601386/photo/mature-businesswoman-looking-to-a-hologram-at-office.jpg?b=1&s=612x612&w=0&k=20&c=yjSq9dqHgtLLl3jk18zhZ6TBbqYi8NewO9VgG7tfPy4="
+
+        },
+        {
+            "id": 4,
+            "title": "Digital Marketing",
+            "slug": "digital-marketing",
+            "description": "Learn the key strategies for successful digital marketing campaigns.",
+            "price": 89.99,
+            "instructor": "Michael Brown",
+            "isFeatured": true,
+            "image": "https://images.pexels.com/photos/3082341/pexels-photo-3082341.jpeg?auto=compress&cs=tinysrgb&w=600"
+
+        },
+        {
+            "id": 5,
+            "title": "Graphic Design",
+            "slug": "graphic-design",
+            "description": "Explore the principles of graphic design and develop your creative skills.",
+            "price": 129.99,
+            "instructor": "Emily Davis",
+            "isFeatured": false,
+            "image": "https://images.pexels.com/photos/326501/pexels-photo-326501.jpeg?auto=compress&cs=tinysrgb&w=600"
+
+        },
+        {
+            "id": 6,
+            "title": "Cloud Computing",
+            "slug": "cloud-computing",
+            "description": "Learn cloud infrastructure, AWS, and Azure for managing scalable systems.",
+            "price": 249.99,
+            "instructor": "Robert Wilson",
+            "isFeatured": true,
+            "image": "https://cdn.pixabay.com/photo/2024/08/22/09/07/ai-generated-8988757_1280.jpg"
+
+        },
+        {
+            "id": 7,
+            "title": "Cybersecurity Essentials",
+            "slug": "cybersecurity-essentials",
+            "description": "Protect systems and data with this foundational cybersecurity course.",
+            "price": 149.99,
+            "instructor": "Laura Thomas",
+            "isFeatured": false,
+            "image": "https://cdn.pixabay.com/photo/2023/07/19/06/20/ai-generated-8136170_960_720.png"
+        },
+        {
+            "id": 8,
+            "title": "Machine Learning",
+            "slug": "machine-learning",
+            "description": "Dive into machine learning with hands-on projects using Python and TensorFlow.",
+            "price": 299.99,
+            "instructor": "David Miller",
+            "isFeatured": true,
+            "image": "https://cdn.pixabay.com/photo/2020/10/21/18/07/laptop-5673901_640.jpg"
+
+        },
+        {
+            "id": 9,
+            "title": "Blockchain Fundamentals",
+            "slug": "blockchain-fundamentals",
+            "description": "Understand the basics of blockchain technology and decentralized applications.",
+            "price": 179.99,
+            "instructor": "Sophia Clark",
+            "isFeatured": false,
+            "image": "https://images.pexels.com/photos/5980856/pexels-photo-5980856.jpeg?auto=compress&cs=tinysrgb&w=600"
+
+        },
+        {
+            "id": 10,
+            "title": "AI for Business",
+            "slug": "ai-for-business",
+            "description": "Learn how to integrate AI solutions to optimize business processes.",
+            "price": 349.99,
+            "instructor": "James White",
+            "isFeatured": true,
+            "image": "https://images.pexels.com/photos/8019817/pexels-photo-8019817.jpeg?auto=compress&cs=tinysrgb&w=600"
+
+        }
+    ]
+}
